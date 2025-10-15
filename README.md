@@ -1,0 +1,3 @@
+-more to come
+-support jayfantz if u want on stake
+-link up if you want to build
