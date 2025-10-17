@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          ONO.speed - Smooth Speed Hack Stake
-// @namespace     https://github.com/yourname/html5-speed-overlay
+// @namespace     https://github.com/cutiejf/stakespeed/blob/main/ono.speed
 // @version       2.0.5
 // @description   Smooth, optimized speed scaling (rAF delta), timers auto-on, CSS snap for near-instant animations. Collapsible advanced options. Max speed capped at 9.9x.
 // @author        jayfantz
